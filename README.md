@@ -1,4 +1,4 @@
-# Function intent to build
+# Function
 
 1. A Morse Code trainer
 
@@ -14,6 +14,8 @@
 
 Raspberry pi 4B.
 
+Raspberry pi pico.
+
 LCD screen with DSI.
 
 Internal batterys.
@@ -27,3 +29,8 @@ https://zhuanlan.zhihu.com/p/30593852
 https://github.com/oe1wkl/Morserino-32/blob/master/Software/src/Version%204/MorseDecoder.cpp
 
 https://gist.github.com/jadonk/2587524
+
+https://github.com/rgrosset/pico-pwm-audio/blob/main/pico-pwm-audio.c
+
+https://www.youtube.com/watch?v=rwPTpMuvSXg
+
