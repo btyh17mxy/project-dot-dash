@@ -23,3 +23,7 @@ __pycache__/
 .venv/
 venv/
 ENV/
+
+# doc build
+doc/_build/
+doc/env/
