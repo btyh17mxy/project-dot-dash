@@ -1,0 +1,32 @@
+# vscode
+.vscode/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# vim
+*.swp
+*.swo
+
+# C extensions
+*.so
+.idea/
+
+# mac
+.DS_Store
+
+# dotenv
+.env
+
+# virtualenv
+.venv/
+venv/
+ENV/
+
+# doc build
+doc/_build/
+doc/env/
+
+# build
+build/
