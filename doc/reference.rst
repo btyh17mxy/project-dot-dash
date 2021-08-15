@@ -9,4 +9,4 @@ Raspberry Pi GPIO Diagram
 Raspberry Pi Pico GPIO Diagram
 -------------------------------
 
-.. image:: https://cdn.pandorica.io/alfread-upload/2021-08-15/60643cc8f24abcdeca0bf81e4af2f8d0.png
+.. image:: https://cdn.pandorica.io/alfread-upload/2021-08-15/7fa4b26aa42b9c22c9115383cc11f949.png
